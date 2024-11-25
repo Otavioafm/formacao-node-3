@@ -1,0 +1,16 @@
+{
+  "name": "formacao-node-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Otavio Afonso Furtado Matias",
+  "license": "",
+  "description": "",
+  "dependencies": {
+    "formacao-node-3": "file:"
+  }
+}
